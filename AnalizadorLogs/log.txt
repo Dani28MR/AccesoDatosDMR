@@ -1,0 +1,7 @@
+2023-10-01 10:00:01,INFO,Aplicación iniciada correctamente
+2023-10-01 10:01:15,WARNING,Falta un archivo de configuración
+2023-10-01 10:02:45,ERROR,Fallo en la conexión a la base de datos
+2023-10-01 10:05:30,INFO,Usuario autenticado con éxito
+2023-10-01 10:06:50,ERROR,Fallo en la conexión a la base de datos
+2023-10-01 10:07:15,ERROR,El archivo de configuración está dañado
+2023-10-01 10:10:23,INFO,Cerrando la aplicación

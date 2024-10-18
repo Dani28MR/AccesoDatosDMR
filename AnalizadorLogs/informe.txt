@@ -1,0 +1,9 @@
+--- Informe de Logs ---
+Niveles de log:
+ERROR: 3
+INFO: 3
+WARNING: 1
+
+Errores más comunes:
+Fallo en la conexión a la base de datos: 2
+El archivo de configuración está dañado: 1
