@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<curso>
+    <estudiantes>
+        <edad>20</edad>
+        <nombre>Juan</nombre>
+    </estudiantes>
+    <estudiantes>
+        <edad>22</edad>
+        <nombre>Ana</nombre>
+    </estudiantes>
+    <estudiantes>
+        <edad>21</edad>
+        <nombre>Luis</nombre>
+    </estudiantes>
+    <nombreCurso>MatemÃ¡ticas</nombreCurso>
+</curso>
